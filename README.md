@@ -25,4 +25,10 @@ I am a Computer Engineering student (BE) passionate about building scalable, hig
 </p>
 
 ## 🌐 Socials:
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">](https://linkedin.com/in/YOUR_LINK) [<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">](mailto:YOUR_EMAIL)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">](https://linkedin.com/in/sahilshivekar) 
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge">](https://x.com/sahil_shivekar) 
+[<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">](mailto:sahilshivekarce@gmail.com)
+
+## 🏆 Coding Profiles:
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge">](https://leetcode.com/u/sahilshivekar/) 
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge">](https://www.geeksforgeeks.org/profile/sahilshivekar)
