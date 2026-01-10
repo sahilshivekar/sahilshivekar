@@ -31,4 +31,4 @@ I am a Computer Engineering student (BE) passionate about building scalable, hig
 
 ## 🏆 Coding Profiles:
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge">](https://leetcode.com/u/sahilshivekar/) 
-[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge">](https://www.geeksforgeeks.org/profile/sahilshivekar)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge">](https://www.geeksforgeeks.org/profile/sahilshivekar?tab=activity)
