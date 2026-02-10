@@ -4,7 +4,7 @@
 I am a Computer Engineering student (BE) passionate about building scalable, high-quality mobile applications. I leverage **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)** to create efficient, shared codebases, backed by robust, test-driven backend systems.
 
 ### 🏆 Technical Highlights
-- **Solved 200+ DSA problems** (LeetCode/GfG).
+- **Solved 300+ DSA problems** (LeetCode/GfG).
 - **4x Winner** of college-level Coding & Debugging competitions.
 
 # 💻 Tech Stack:
