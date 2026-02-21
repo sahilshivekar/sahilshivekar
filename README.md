@@ -1,7 +1,11 @@
 # Hi there, I'm Sahil Shivekar 👋
-### 🚀 Android & KMP/CMP Developer | Backend Engineer
+### 🚀 Mobile Engineer | Android & KMP | Open Source Contributor @ Mifos Initiative
 
-I am a Computer Engineering student (BE) passionate about building scalable, high-quality mobile applications. I leverage **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)** to create efficient, shared codebases, backed by robust, test-driven backend systems.
+I am a Mobile Engineer specializing in the Kotlin ecosystem, with a focus on building scalable Android and Kotlin Multiplatform (KMP) applications. 📱 
+Currently, I’m architecting 'Presencify,' an end-to-end attendance ecosystem designed to serve 1,000+ users, featuring on-device face recognition and a robust backend secured by 1,200+ tests. 🚀 
+As an active open-source contributor at the Mifos Initiative, I deliver industry-standard code for global financial inclusion projects. 🌍 
+I enjoy collaborating with fellow engineers on the evolving landscape of cross-platform development and modern mobile engineering. 🛠️
+I am always open to discussing new technologies or potential collaborations—let’s connect! 🤝
 
 ### 🏆 Technical Highlights
 - **Solved 300+ DSA problems** (LeetCode/GfG).
