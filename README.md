@@ -1,5 +1,5 @@
 # Hi there, I'm Sahil Shivekar 👋
-### 🚀 Mobile Engineer | Android & KMP | Open Source Contributor @ Mifos Initiative
+### 🚀 Android & Kotlin Multiplatform Engineer | Open Source Contributor @ Mifos Initiative | 4× Coding Competition Winner
 
 I am a Mobile Engineer specializing in the Kotlin ecosystem, with a focus on building scalable Android and Kotlin Multiplatform (KMP) applications. 📱 
 
