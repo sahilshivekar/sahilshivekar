@@ -1,15 +1,11 @@
 # Hi there, I'm Sahil Shivekar 👋
 ### 🚀 Android & Kotlin Multiplatform Engineer | Open Source Contributor @ Mifos Initiative | 4× Coding Competition Winner
 
-I am a Mobile Engineer specializing in the Kotlin ecosystem, with a focus on building scalable Android and Kotlin Multiplatform (KMP) applications. 📱 
+I'm an Android & Kotlin Multiplatform Engineer passionate about building production-grade mobile applications, cross-platform solutions, and secure backend systems.
 
-Currently, I’m architecting 'Presencify,' an end-to-end attendance ecosystem designed to serve 1,000+ users, featuring on-device face recognition and a robust backend secured by 1,200+ tests. 🚀 
+Currently, I'm architecting Presencify, an end-to-end attendance ecosystem for engineering colleges, integrating on-device AI face recognition, liveness detection, and a secure backend designed for approximately 850 students and faculty.
 
-As an active open-source contributor at the Mifos Initiative, I deliver industry-standard code for global financial inclusion projects. 🌍 
-
-I enjoy collaborating with fellow engineers on the evolving landscape of cross-platform development and modern mobile engineering. 🛠️
-
-I am always open to discussing new technologies or potential collaborations—let’s connect! 🤝
+I'm also an active Open Source Contributor at the Mifos Initiative, where I contribute production-ready Kotlin Multiplatform features, reusable UI components, and cross-platform improvements while collaborating with contributors worldwide.
 
 ### 🏆 Technical Highlights
 - **Solved 300+ DSA problems** (LeetCode/GfG).
